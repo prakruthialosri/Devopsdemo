@@ -1,1 +1,2 @@
-welcome "HI hello how ru"
+echo    "HI hello how ru"
+
